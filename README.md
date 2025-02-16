@@ -8,11 +8,7 @@ This repository contains a comprehensive analysis of Flipkart’s e-commerce sys
 
 # Repository Structure
 
-📂 Root Directory
-├── 📁 Diagrams/
-│   ├── 📄 incremental.png
-│   ├── 📄 spiral.png
-│   ├── 📄 waterfall.png
+📂 Root Directory/
 ├── 📄 Flipkart-Final.pdf
 ├── 📄 Plagiarism-Report.pdf
 ├── 📄 README.md
